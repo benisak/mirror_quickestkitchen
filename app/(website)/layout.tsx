@@ -30,7 +30,7 @@ async function sharedMetaData(params: any) {
   const settings = await getSettings();
 
   return {
-    // enable this for resolving opengraph images
+    // enable this for resolving opengraph the images
     // metadataBase: new URL(settings.url),
     title: {
       default:
