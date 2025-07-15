@@ -177,7 +177,7 @@ function NavbarContent({
         </div>
       </div>
 
-      {/* Second Row: Logo ,  Categories and Search  */}
+      {/* Second Row: Logo,  Categories and Search  */}
       <div
         className="hidden w-full md:block"
         style={{
